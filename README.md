@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h1 align="center">Hiii, I'm Autumn 👋</h1>
+<h3 align="centre">a programmer with a passion for trying out cool new stuff and fixing things that should've been fixed ages back</h3>
+</p>
+
+- 🔭 currently working on random stuff
+- 🌱 learning Python, Lua and how to use GitHub
+- 🧠 I want to learn Javascript, Rust and C#
+- ⚡ Fun fact: I literally cannot code without music on.
 
 <!--
 **just-autumn/just-autumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
