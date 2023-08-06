@@ -17,7 +17,7 @@ I'm someone who is interested in coding for fun and making scripts to make life 
 - C#
 - HTML
 
-## ⚡ Fun fact:
+## ⚡ Fun facts:
 - I literally cannot code without music on.
 - Some of my code makes reference to 19 due to my previous username.
 
