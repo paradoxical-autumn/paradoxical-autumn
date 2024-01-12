@@ -10,11 +10,11 @@ I'm someone who is interested in coding for fun and making scripts to make life 
 
 ## 🌱 currently learning:
 - Lua (decent)
+- C#
 
 ## 🧠 I want to learn:
 - Javascript
 - Rust
-- C#
 - HTML
 
 ## ⚡ Fun facts:
