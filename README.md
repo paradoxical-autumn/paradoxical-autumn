@@ -2,7 +2,7 @@
 <p align="center"><i>(aka paradox)</i></p>
 <p align="center">a programmer with a passion for trying out cool new stuff and fixing things that should've been fixed ages back</p>
 </p>
-I'm someone who is interested in coding for fun and making scripts to make life easier. I've been coding in Python for about 5 years but I'm also strong in Lua, which I've been coding in for about 2 years now (but still learning). I've also tried my hand at game making and so I also have skills in that field (design, music production, UI/UX design). 
+I'm someone who is interested in coding for fun and making scripts to make life easier. I've been coding in Python for about 6 years but I'm also strong in Lua, which I've been coding in for about 3 years now. I'm also studying game design officially and have since made the jump from Roblox to Flax Engine to continue my journey in that field.
 
 ## 🔭 currently working on:
 - random stuff
@@ -10,17 +10,12 @@ I'm someone who is interested in coding for fun and making scripts to make life 
 - stupid stuff
 
 ## 🌱 currently learning:
-- Lua (decent)
 - C#
 
 ## 🧠 I want to learn:
 - Javascript
 - Rust
 - HTML
-
-## ⚡ Fun facts:
-- I literally cannot code without music on.
-- Some of my code makes reference to 19 due to my previous username(s).
 
 ```
 a profile by...
