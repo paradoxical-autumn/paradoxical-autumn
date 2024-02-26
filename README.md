@@ -2,7 +2,7 @@
 <p align="center"><i>(aka paradox)</i></p>
 <p align="center">a programmer with a passion for trying out cool new stuff and fixing things that should've been fixed ages back</p>
 </p>
-I'm someone who is interested in coding for fun and making scripts to make life easier. I've been coding in Python for about 6 years but I'm also strong in Lua, which I've been coding in for about 3 years now. I'm also studying game design officially and have since made the jump from Roblox to Flax Engine to continue my journey in that field.
+I'm someone who is interested in coding for fun and making scripts to make life easier. I've been coding in Python for about 6 years but I'm also strong in Lua, which I've been coding in for about 3 years now. I'm also studying game design officially to continue my journey in that field even though I only specialise in UIs and programming.
 
 ## 🔭 currently working on:
 - random stuff
