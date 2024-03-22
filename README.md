@@ -6,8 +6,10 @@ I'm someone who is interested in coding for fun and making scripts to make life 
 
 ## 🔭 currently working on:
 - random stuff
-- fixing stuff
+- fixing stuff \*
 - stupid stuff
+
+\* If I randomly fork your repo, it's probably because I use it often enough that I wanted to fix at least one issue in it.
 
 ## 🌱 currently learning:
 - C#
