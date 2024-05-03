@@ -25,5 +25,5 @@ a profile by...
    .8' `888.    `888  `888    888   `888  `888  `888P"Y88bP"Y88b  `888P"Y88b     running on:     AMD42 Windows 9
   .88ooo8888.    888   888    888    888   888   888   888   888   888   888     installed at:   W:\Programs
  .8'     `888.   888   888    888 .  888   888   888   888   888   888   888     documentation:  <unavailable>
-o88o     o8888o  `V88V"V8P'   "888"  `V88V"V8P' o888o o888o o888o o888o o888o    supprt:         <unavailable>
+o88o     o8888o  `V88V"V8P'   "888"  `V88V"V8P' o888o o888o o888o o888o o888o    support:        <unavailable>
 ```
