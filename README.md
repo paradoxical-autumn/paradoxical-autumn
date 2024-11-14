@@ -1,8 +1,8 @@
-<h1 align="center">heya, I'm Autumn</h1>
+<h1 align="center">heya, im autumn</h1>
 <p align="center"><i>(aka paradox)</i></p>
 <p align="center">a programmer with a passion for trying out cool new stuff and fixing things that should've been fixed ages back</p>
 </p>
-I'm someone who is interested in coding for fun and making scripts to make life easier. I've been coding in Python for about 6 years but I'm also strong in Lua, which I've been coding in for about 3 years now. I'm also studying game design officially to continue my journey in that field even though I only specialise in UIs and programming.
+I'm someone who is interested in coding for fun and making scripts to make life easier.
 
 ## 🔭 currently working on:
 - random stuff
@@ -11,11 +11,11 @@ I'm someone who is interested in coding for fun and making scripts to make life 
 
 ## 🌱 currently learning:
 - C#
+- C++
+- HTML, CSS & JS
 
 ## 🧠 I want to learn:
-- Javascript
 - Rust
-- HTML
 
 ```
 a profile by...
