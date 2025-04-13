@@ -1,6 +1,9 @@
 <h1 align="center">heya, im autumn</h1>
 <p align="center"><i>(aka paradox)</i></p>
 <p align="center">a programmer with a passion for trying out cool new stuff and fixing things that should've been fixed ages back</p>
+
+---
+
 im someone who is interested in coding for fun and making scripts to make life easier.
 
 ## currently working on:
