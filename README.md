@@ -6,7 +6,7 @@
 
 im someone who is interested in coding for fun and making scripts to make life easier.
 
-## currently working on:
+<!--## currently working on:
 - [ACA](https://github.com/paradoxical-autumn/ArbitraryComponentAccess), a resonite plugin!
 - private projects in godot!!
 
@@ -20,3 +20,4 @@ a profile by...
  .8'     `888.   888   888    888 .  888   888   888   888   888   888   888     documentation:  https://its-autumn.xyz
 o88o     o8888o  `V88V"V8P'   "888"  `V88V"V8P' o888o o888o o888o o888o o888o    support:        <unavailable>
 ```
+-->
